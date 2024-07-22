@@ -12,13 +12,13 @@ Sure, here's the complete description addressing the community:
 
 ## Steps:
 
-1. **Data Gathering**
-2. **Exploratory Data Analysis (EDA)**
-3. **Data Processing**
-4. **Model Building**
-5. **Model Training**
-6. **Model Cross Validation**
-7. **Model Deployment** - If we have time, we'll deploy using FastAPI and Streamlit
+1. Data Gathering
+2. Exploratory Data Analysis (EDA)
+3. Data Processing
+4. Model Building
+5. Model Training
+6. Model Cross Validation
+7. Model Deployment - If we have time, we'll deploy using FastAPI and Streamlit
 
 Some advanced steps include:
 - Data Ingestion
